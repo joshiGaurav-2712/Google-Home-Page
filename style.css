@@ -1,0 +1,51 @@
+a.x:link {
+    text-decoration: none;
+}
+
+a.x:hover {
+    text-decoration: underline;
+}
+
+button.si {
+    background-color: rgb(14, 119, 185);
+    color: white;
+    border-radius: 5px;
+}
+
+div.search input {
+    border-radius: 35px;
+    background-image: url('search.png');
+    background-position: left;
+    background-repeat: no-repeat;
+    height: 25px;
+
+
+}
+
+button a {
+
+    text-decoration: none;
+    color: black;
+}
+
+div.languages a {
+    text-decoration: none;
+}
+div.languages a:hover{
+    text-decoration: underline;
+}
+
+div.bottom{
+    background: #eee;
+    border-top: 1px solid black;
+
+}
+
+pre a{
+    text-decoration: none;
+    color: black;
+
+}
+pre a:hover{
+    text-decoration: underline;
+}
